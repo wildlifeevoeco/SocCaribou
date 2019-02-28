@@ -1,6 +1,8 @@
 
 ## Space-use and social organization in a gregarious ungulate: testing the conspecific attraction and resource dispersion
 
+[![DOI](https://zenodo.org/badge/173167283.svg)](https://zenodo.org/badge/latestdoi/173167283)
+
   - Authors:
       - Mélissa Peignier
       - [Quinn M.R. Webber](https://qwebber.weebly.com/)
