@@ -1,0 +1,40 @@
+Package: SocCaribou
+Title: Package Accompanying: Space-use and social organization in a gregarious ungulate: testing the conspecific attraction and resource dispersion hypotheses
+Version: 0.1.0
+Authors@R: c(
+    person(given = "Mélissa",
+           family = "Peignier",
+           role = c("aut")),
+    person(given = "Quinn M.R.",
+           family = "Webber",
+           email = "webber.quinn@gmail.com",
+           role = c("aut"),
+           comment = c(ORCID = "0000-0002-0434-9360")),
+    person(given = "Erin",
+           family = "Koen",
+           role = c("aut")),
+    person(given = "Michel P.",
+           family = "Laforge",
+           role = c("aut")),
+    person(given = "Alec L.",
+           family = "Robitaille",
+           role = c("aut", "cre"),
+           email = "robit.alec@gmail.com",
+           comment = c(ORCID = "0000-0002-4706-1762")),
+    person(given = "Eric",
+           family = "Vander Wal",
+           role = c("aut"),
+           comment = c(ORCID = "0000-0002-8534-4317")))
+Description: Package Accompanying: Space-use and social organization in a gregarious ungulate: testing the conspecific attraction and resource dispersion hypotheses
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+Imports: 
+    igraph,
+    data.table,
+    adehabitatHR,
+    sp,
+    asnipe,
+    spatsoc
+RoxygenNote: 6.1.1

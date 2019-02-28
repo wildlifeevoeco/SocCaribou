@@ -1,0 +1,55 @@
+
+# Space-use and social organization in a gregarious ungulate: testing the conspecific attraction and resource dispersion
+
+  - Authors:
+      - Mélissa Peignier
+      - [Quinn M.R. Webber](https://qwebber.weebly.com/)
+      - [Erin Koen](https://sites.google.com/site/erinlkoen/)
+      - [Michel P. Laforge](https://mammalspatialecology.weebly.com/)
+      - [Alec L. Robitaille](http://robitalec.ca)
+      - [Eric Vander Wal](http://weel.gitlab.io)
+
+This repository contains the code accompanying the paper “Space-use and
+social organization in a gregarious ungulate: testing the conspecific
+attraction and resource dispersion”. Scripts are under `scripts/` and
+reused functions are in `R/`. This project uses standard R package
+structure and can therefore be installed with `devtools`. This also
+helps declare external package dependencies required for the analysis.
+Please note that while functions are included here, they are not tested
+for use in other projects and may not be suitable (at least not in their
+current version).
+
+## Abstract
+
+Animals use a variety of proximate cues to assess habitat quality when
+resources vary spatiotemporally. Two non-mutually exclusive strategies
+to assess habitat quality involve either direct assessment of landscape
+features or observation of social cues from conspecifics as a form of
+information transfer about forage resources. The conspecific attraction
+hypothesis proposes that individual space-use is dependent on the
+distribution of conspecifics rather than the location of resource
+patches, whereas the resource dispersion hypothesis proposes that
+individual space-use and social association are driven by the abundance
+and distribution of resources. We tested the conspecific attraction and
+the resource dispersion hypotheses as two non-mutually exclusive
+hypotheses explaining social association and of adult female caribou
+(*Rangifer tarandus*). We used location data from GPS collars to
+estimate inter-annual site fidelity and networks representing home range
+overlap and social associations among individual caribou. We found that
+home range overlap and social associations were correlated with resource
+distribution in summer and conspecific attraction in winter. In summer,
+when resources were distributed relatively homogeneously, inter-annual
+site fidelity was high and home range overlap and social associations
+were low. Conversely, in winter when resources were distributed
+relatively heterogeneously, inter-annual site fidelity was low and home
+range overlap and social associations were high. As access to resources
+changes across seasons, caribou appear to alter social behavior and
+space-use. In summer, caribou may use cues associated with the
+distribution of forage, and in winter caribou may use cues from
+conspecifics to access forage. Our results have broad implications for
+our understanding of caribou socioecology, suggesting that caribou use
+season-specific strategies to locate forage. Caribou populations
+continue to decline globally, and our finding that conspecific
+attraction is likely related to access to forage suggests that further
+fragmentation of caribou habitat could limit social association among
+caribou, particularly in winter when access to resources may be limited.
